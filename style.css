@@ -32,6 +32,10 @@ header {
   justify-content: space-between;
 }
 
+header a:hover {
+  background-color: #fbc2eb;
+}
+
 h1 {
   font-family: "Ubuntu";
   font-size: 1em;
@@ -86,6 +90,10 @@ h1 {
   padding-top: 25px;
   border-top: 1px solid #e5e5e5;
   margin-top: auto;
+}
+
+.card-source:hover {
+  color: #fbc2eb;
 }
 
 a {
