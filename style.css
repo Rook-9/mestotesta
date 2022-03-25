@@ -109,6 +109,10 @@ footer {
   color: #8f00ff;
 }
 
+.footer-link:hover {
+  color: #ff3cac;
+}
+
 .card-joke-meta {
   display: flex;
   align-items: center;
